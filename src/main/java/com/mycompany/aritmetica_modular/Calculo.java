@@ -11,6 +11,7 @@ public class Calculo {
                 matriz[i][j] = i+j;
             }
         }
+        kijkik
         return matriz;
     }
     
